@@ -1,0 +1,38 @@
+@font-face {
+    font-family:proxima-nova ;
+    src: url(pf.otf);
+}
+@font-face {
+    font-family:fr;
+    src: url(gtsr.otf);
+}
+.header{
+    background-color:#005450ff;
+    min-height: 650px;
+    
+}
+.page{
+    height: 80vh;
+    width: 50vh;
+}
+.container-fluid{
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.card{
+    text-align: center;
+    height: 40vh;
+    
+}
+.fnt{
+    font-family: proxima-nova;
+    color: black;
+    font-size: 16px;
+   ;
+}
+.domain-disp{
+    font-family: fr;
+    font-size: 50px;
+    font-weight: 400;
+}
